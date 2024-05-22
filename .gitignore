@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+*.cpp.o
+*.c.o
+
+# Precompiled Headers
+*.gch
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+
+# Executable files
+*.exe
+
+# Build folders
+build/
